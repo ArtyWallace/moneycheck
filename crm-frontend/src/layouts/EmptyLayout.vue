@@ -14,6 +14,5 @@ export default {
 .empty-layout {
   width: 100vw;
   height: 100vh;
-  background: rgba(0, 0, 0, .1);
 }
 </style>

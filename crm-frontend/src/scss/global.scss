@@ -1,5 +1,17 @@
+*,
+:before,
+:after {
+  box-sizing: border-box;
+}
+
 body {
+  font-family: 'Roboto', sans-serif;
   font-size: $main-font;
   margin: 0;
   padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: $black;
 }

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="ui-kit">
     <div>Buttons:</div>
     <br>
     <app-button>Fill</app-button>
@@ -38,3 +38,9 @@ export default {
   }
 }
 </script>
+
+<style lang="scss" scoped>
+.ui-kit {
+  padding: 30px;
+}
+</style>
